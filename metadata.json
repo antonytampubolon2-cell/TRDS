@@ -1,0 +1,6 @@
+{
+  "name": "TRDS",
+  "description": "Mobile financial education and trading simulator with virtual portfolio, market insights, and interactive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
