@@ -1,31 +1,29 @@
 {
-  "background_color": "#ffffff",
-  "description": "Mobile financial education and trading simulator with virtual portfolio, market insights, and interactive learning.",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "TRDS",
-  "orientation": "any",
-  "scope": "/",
+  "name": "TRDS - Educational Virtual Trading Simulator",
   "short_name": "TRDS",
-  "start_url": "/",
+  "description": "Educational virtual trading simulator with virtual portfolio, market insights, and interactive learning.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/TRDS/",
+  "scope": "/TRDS/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://antonytampubolon2-cell.github.io/trds_official_logo.png",
-      "type": "image/png",
-      "isSquare": false,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "/TRDS/logo_resmi_trds_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/TRDS/logo_resmi_trds_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "categories": [
     "education",
     "finance"
-  ],
-  "id": "/TRDS/"
+  ]
 }
